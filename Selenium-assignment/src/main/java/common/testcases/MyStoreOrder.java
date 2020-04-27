@@ -1,12 +1,5 @@
 package common.testcases;
 
-import java.security.Timestamp;
-import java.util.Random;
-
-import javax.naming.ldap.Rdn;
-
-import org.openqa.selenium.By;
-import org.openqa.selenium.Keys;
 import org.openqa.selenium.WebDriver;
 import org.testng.annotations.AfterClass;
 import org.testng.annotations.BeforeClass;

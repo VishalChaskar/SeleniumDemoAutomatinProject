@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="56013" started-at="2020-04-27T09:57:33Z" finished-at="2020-04-27T09:58:29Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="56013" started-at="2020-04-27T09:57:33Z" finished-at="2020-04-27T09:58:29Z">
+      <class name="common.testcases.MyStoreOrder">
+        <test-method status="PASS" signature="initBrowser()[pri:0, instance:common.testcases.MyStoreOrder@18be83e4]" name="initBrowser" is-config="true" duration-ms="18719" started-at="2020-04-27T09:57:33Z" finished-at="2020-04-27T09:57:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initBrowser -->
+        <test-method status="PASS" signature="createAndLoginAccount()[pri:0, instance:common.testcases.MyStoreOrder@18be83e4]" name="createAndLoginAccount" duration-ms="9842" started-at="2020-04-27T09:57:51Z" finished-at="2020-04-27T09:58:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createAndLoginAccount -->
+        <test-method status="PASS" signature="dummylogin()[pri:1, instance:common.testcases.MyStoreOrder@18be83e4]" name="dummylogin" duration-ms="4053" started-at="2020-04-27T09:58:01Z" finished-at="2020-04-27T09:58:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dummylogin -->
+        <test-method status="PASS" signature="performAddToCart()[pri:2, instance:common.testcases.MyStoreOrder@18be83e4]" name="performAddToCart" duration-ms="10890" started-at="2020-04-27T09:58:05Z" finished-at="2020-04-27T09:58:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- performAddToCart -->
+        <test-method status="PASS" signature="verifySummaryTabCost()[pri:3, instance:common.testcases.MyStoreOrder@18be83e4]" name="verifySummaryTabCost" duration-ms="5411" started-at="2020-04-27T09:58:16Z" finished-at="2020-04-27T09:58:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifySummaryTabCost -->
+        <test-method status="PASS" signature="verifyPaymentTabC0st()[pri:4, instance:common.testcases.MyStoreOrder@18be83e4]" name="verifyPaymentTabC0st" duration-ms="3279" started-at="2020-04-27T09:58:22Z" finished-at="2020-04-27T09:58:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyPaymentTabC0st -->
+        <test-method status="PASS" signature="verifyOrderHistoryCost()[pri:5, instance:common.testcases.MyStoreOrder@18be83e4]" name="verifyOrderHistoryCost" duration-ms="3763" started-at="2020-04-27T09:58:25Z" finished-at="2020-04-27T09:58:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyOrderHistoryCost -->
+        <test-method status="PASS" signature="CloseBrowser()[pri:0, instance:common.testcases.MyStoreOrder@18be83e4]" name="CloseBrowser" is-config="true" duration-ms="0" started-at="2020-04-27T09:58:29Z" finished-at="2020-04-27T09:58:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CloseBrowser -->
+      </class> <!-- common.testcases.MyStoreOrder -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
